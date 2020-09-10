@@ -1,0 +1,17 @@
+#movieTable {
+    background-color: lightskyblue;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+#tableContainer {
+    text-align: center;
+}
+
+tr :nth-child(1) {
+    font-style: italic;
+}
