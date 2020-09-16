@@ -1,0 +1,11 @@
+#myJumbo {
+    background-image: URL("../assets/aron-visuals-3jBU9TbKW7o-unsplash.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+
+#test1 {
+    font-size: 50px;
+    font-weight: bold;
+}
